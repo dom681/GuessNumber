@@ -25,7 +25,7 @@ while RangeTruth:
                     cont = False 
                     print "Well Done"
             else:
-                 print "Guess must be an integer"
+                 print "Error - Guess must be an integer"
     else:
         print "Error - Range Must be an Integer"
         
